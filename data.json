@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    	{
+	        "type": "Feature",
+	        "properties": {
+	        	"title" : "Notre Dame de Strasbourg", 
+	            "description": "Strasbourg Cathedral or the Cathedral of Our Lady of Strasbourg, also known as Strasbourg Minster, is a Roman Catholic cathedral in Strasbourg, Alsace, France",
+	            "iconSize": [40, 40],
+	            "img": "Strasbourg_Cathedral.jpg",
+	            "youtube": "https://www.youtube.com/watch?v=ue80QwXMRHg"
+	        },
+	        "geometry": {
+	            "type": "Point",
+	            "coordinates": [7.7488461, 48.5818799]
+	        }
+	    }, {
+	        "type": "Feature",
+	        "properties": {
+	        	"title" : "Notre Dame de Paris", 
+	            "description": "Notre-Dame de Paris, also known as Notre-Dame Cathedral or simply Notre-Dame, is a medieval Catholic cathedral on the Île de la Cité in the fourth arrondissement of Paris, France",
+	            "iconSize": [40, 40],
+	            "img": "Notre-Dame-de-Paris.jpg",
+	            "youtube": "https://www.youtube.com/watch?v=3PyrgGTFp0E"
+	        },
+	        "geometry": {
+	            "type": "Point",
+	            "coordinates": [2.3477134, 48.8529682]
+	        }
+	    }, {
+	        "type": "Feature",
+	        "properties": {
+	        	"title" : "Saint Basil's Cathedral", 
+	            "description": "The Cathedral of Vasily the Blessed, commonly known as Saint Basil\'s Cathedral, is a church in the Red Square in Moscow, Russia",
+	            "iconSize": [40, 40],
+	            "img": "Saint-Basil-Cathedral.jpg",
+	            "youtube": "https://www.youtube.com/watch?v=6fothfUmryQ"
+	        },
+	        "geometry": {
+	            "type": "Point",
+	            "coordinates": [37.6230752, 55.7523376]
+	        }
+	    }, {
+	        "type": "Feature",
+	        "properties": {
+	        	"title" : "Cologne Cathedral", 
+	            "description": "Cologne Cathedral is a Roman Catholic cathedral in Cologne, Germany. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne",
+	            "iconSize": [40, 40],
+	            "img": "Cologne-Cathedral.jpg",
+	            "youtube": "https://www.youtube.com/watch?v=RqHI0kE-cyo"
+	        },
+	        "geometry": {
+	            "type": "Point",
+	            "coordinates": [6.9560927, 50.9412784]
+	        }
+	    }
+
+	]
+}
